@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/backgroundColorSplash/static/css/main.b2a19411.css",
+    "main.js": "/backgroundColorSplash/static/js/main.85a20d25.js",
+    "index.html": "/backgroundColorSplash/index.html",
+    "main.b2a19411.css.map": "/backgroundColorSplash/static/css/main.b2a19411.css.map",
+    "main.85a20d25.js.map": "/backgroundColorSplash/static/js/main.85a20d25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2a19411.css",
+    "static/js/main.85a20d25.js"
+  ]
+}
